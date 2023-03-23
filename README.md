@@ -11,4 +11,4 @@ Traditionally, access to bank accounts has been regarded as an indicator of fina
 
 ## Metric of Success
 
-Our analysis will focus on descriptive statistics of the dataset to give insights on the state of financial inclusion in East Africa.
+Our analysis will focus on descriptive statistics of the dataset to give insights on the state of financial inclusion in East Africa and accurate PCA analysis to accurately predict whether one has a bank account.
